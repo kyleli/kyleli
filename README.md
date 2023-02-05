@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=kyleli&stroke=white)
+![Codewars](https://github.r2v.ch/codewars?user=kyleli&stroke=rgb(255,255,255))
 
 <!--
 **kyleli/kyleli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
