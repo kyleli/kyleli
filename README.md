@@ -1,3 +1,7 @@
+## I've had this github account since December 2012 but didn't start learning how to code until exactly 10 years later in December 2022.
+
+**It's never too late to learn!**
+
 ![Codewars](https://github.r2v.ch/codewars?user=kyleli&stroke=rgb(255,255,255))
 
 <!--
