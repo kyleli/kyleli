@@ -11,3 +11,5 @@ Dive into my repos and let's make waves together!
 [kylejli.com](http://kyleli.portfoliobox.net)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyleli&theme=tokyonight" alt="mystreak"/>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
