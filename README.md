@@ -11,3 +11,4 @@ Dive into my repos and let's make waves together!
 [kylejli.com](https://kylejli.com)
 
 <a href="https://kylejli.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyleli&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
