@@ -10,4 +10,4 @@ Dive into my repos and let's make waves together!
 
 [kylejli.com](http://kyleli.portfoliobox.net)
 
-<img src="https://myreadme.vercel.app/api/embed/kyleli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyleli&theme=tokyonight" alt="mystreak"/>
