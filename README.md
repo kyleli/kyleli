@@ -8,6 +8,6 @@ Hydrift is a sci-fi action RPG where you pilot a tiny emergency vessel on an ali
 
 Dive into my repos and let's make waves together!
 
-[kylejli.com](http://kyleli.portfoliobox.net)
+[kylejli.com](https://kylejli.com)
 
-<a href="kylejli.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="[kylejli.com](https://kylejli.com)"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
