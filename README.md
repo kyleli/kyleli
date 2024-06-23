@@ -10,4 +10,4 @@ Dive into my repos and let's make waves together!
 
 [kylejli.com](https://kylejli.com)
 
-<a href="[kylejli.com](https://kylejli.com)"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://kylejli.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
