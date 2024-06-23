@@ -9,3 +9,5 @@ Hydrift is a sci-fi action RPG where you pilot a tiny emergency vessel on an ali
 Dive into my repos and let's make waves together!
 
 [kylejli.com](http://kyleli.portfoliobox.net)
+
+<img src="https://myreadme.vercel.app/api/embed/kyleli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
