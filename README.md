@@ -11,3 +11,4 @@ Dive into my repos and let's make waves together!
 [kylejli.com](https://kylejli.com)
 
 <a href="https://kylejli.com"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleli&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<a href='https://www.gitclear.com/github_profile_dynamic_readme_free?expand_widget=1' target='_blank'><img src='https://www.gitclear.com/chart_glimpses/0e495137-0577-488c-b367-bf691177ce0a.png' /></a>
